@@ -19,7 +19,7 @@ hello git I want study you !
 hello git I want study you !
 hello git I want study you !
 hello git I want study you !
+hello git I want study you ! 我现在来模拟分支冲突的问题
 hello git I want study you !
 hello git I want study you !
-hello git I want study you !
-hello git I want study you !
+hello git I want study you ! 我是hot-fix分支添加的内容
