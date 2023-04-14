@@ -1,0 +1,14 @@
+ride修改快捷键
+系统设置的快捷键不知道为什么ctrl+soace用不了，ctrl+Alt又会唤起窗口事件，不能用方向键快捷选择需要的关键字
+1、快捷键修改：
+文件位置
+{Python_home}\Lib\site-packages\robotide\editor\contentassist.py
+{Python_home}\Lib\site-packages\robotide\editor\Kweditor.py
+搜索-修改wxk_SPACE---->WXK_ALT(Kweditor.py里的第二个不用修改，如果修改，切换页面是会唤醒代码提示，具体还需要研究)
+2、修改帮助里显示的快捷键提示
+{Python_home}\Lib\site-packages\robotide\context_init_.py
+<td>Ctrl-SPace</td>---><td>Ctrl-Alt</td>
+
+
+
+
