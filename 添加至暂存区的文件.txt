@@ -19,7 +19,6 @@ hello git I want study you !
 hello git I want study you ! 我来练习分支合并啦
 hello git I want study you !
 hello git I want study you !
+hello git I want study you !我来模拟分支冲突问题，刚刚忘记保存至在暂存区提交本地库
 hello git I want study you ! 我现在来模拟分支冲突的问题
-hello git I want study you !
-hello git I want study you !
-hello git I want study you ! 我是hot-fix分支添加的内容
+hello git I want study you ! 我是hot-fix分支添加的内容111
